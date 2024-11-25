@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Kr. Singh</h1>
-<h3 align="center">A passionate Database Engineer from India🤣</h3>
+<h3 align="center">A passionate Software Engineer from India🤣</h3>
 
 <img align="right" alt="Coding Boy" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
