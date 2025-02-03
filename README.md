@@ -5,17 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarsaurabhsingh&label=Profile%20views&color=0e75b6&style=flat" alt="kumarsaurabhsingh" /> </p>
 
-- 🔭 I’m currently working on **Encryption & Decryption of Files**
+- 🔭 I’m currently working at **GeekyAnts**
 
-- 🌱 I’m currently learning **SSIS & SSRS 😋**
+- 🌱 I’m currently fighting with **Data Structures and Alogorithm😋**
 
-- 💬 Ask me about **Database management**
+- 💬 Lets Battle on **Backend and Data Structures 😎😎**
 
-- 📫 How to reach me **iamkuwarsaurabhkumarsingh@gmail.com**
+- 📫 Disturb me on this **iamkuwarsaurabhkumarsingh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Xg7Qa-6MKlv5Hw-CLTRUUtK_4b-y11bO/view?usp=sharing](https://drive.google.com/file/d/1Xg7Qa-6MKlv5Hw-CLTRUUtK_4b-y11bO/view?usp=sharing)
-
-- ⚡ Fun fact **I just love to do martial arts 😁 😋**
+- ⚡ Interesting fact **I will not reply to you Back!!! 😁😎😋, Just Kidding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
